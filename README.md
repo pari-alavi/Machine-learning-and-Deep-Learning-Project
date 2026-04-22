@@ -12,7 +12,7 @@ VSLBase (simplified) and VSLNet (with Query-Guided Highlighting)
 Supports both Omnivore and EgoVLP features
 ✔ End-to-End Pipeline
 
-1.Localizes relevant video segments
+1.Localizes relevant video segments/
 2.Generates textual answers
 3.Evaluates with ROUGE/METEOR metrics
 ✔ Optimized for Egocentric Videos
