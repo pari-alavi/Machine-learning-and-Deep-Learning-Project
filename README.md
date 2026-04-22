@@ -1,7 +1,7 @@
 # Machine-learning-and-Deep-Learning-Project
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 EgocentricVision
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Egocentric videos are long and unstructured, making information retrieval challenging. This project extends temporal localization by generating textual answers from relevant video segments, enabling efficient query processing and improving interpretability in video understanding.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Features
