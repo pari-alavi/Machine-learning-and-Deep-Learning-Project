@@ -16,7 +16,7 @@ This project enhances temporal localization by generating textual answers from r
 
 * **Multimodal Support**
 
-  * Compatible with **Omnivore** and **EgoVLP** features
+  * Supports both **Omnivore** and **EgoVLP** features
 
 * **End-to-End Pipeline**
 
